@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T00:18:49.775Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zTxOLTdDPNT_MTIEgp7G" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T00:19:23.728Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KK5QNekSbNq5qy3kiB8g" version="24.2.3" type="github">
   <diagram name="Página-1" id="BqkP0zEK79z1pLGELWx7">
     <mxGraphModel dx="1214" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,19 +51,16 @@
             <mxPoint x="130" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="essIW2ThO4qJz_jhKlfG-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="essIW2ThO4qJz_jhKlfG-8" source="essIW2ThO4qJz_jhKlfG-88" target="essIW2ThO4qJz_jhKlfG-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="essIW2ThO4qJz_jhKlfG-88" value="Consulta SPC" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="essIW2ThO4qJz_jhKlfG-8">
-          <mxGeometry x="33.599999999999994" y="470" width="77.5" height="30" as="geometry" />
+          <mxGeometry x="21.879999999999995" y="470" width="77.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="essIW2ThO4qJz_jhKlfG-91" value="" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="essIW2ThO4qJz_jhKlfG-8" source="essIW2ThO4qJz_jhKlfG-84" target="essIW2ThO4qJz_jhKlfG-88">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-80" y="360" as="sourcePoint" />
             <mxPoint x="80" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="essIW2ThO4qJz_jhKlfG-92" value="" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="essIW2ThO4qJz_jhKlfG-8" source="essIW2ThO4qJz_jhKlfG-88" target="essIW2ThO4qJz_jhKlfG-116">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-80" y="360" as="sourcePoint" />
-            <mxPoint x="100" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="essIW2ThO4qJz_jhKlfG-113" value="Consulta administradora do cartao" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="essIW2ThO4qJz_jhKlfG-8">
@@ -88,9 +85,6 @@
         </mxCell>
         <mxCell id="essIW2ThO4qJz_jhKlfG-116" value="" style="rhombus;" vertex="1" parent="essIW2ThO4qJz_jhKlfG-8">
           <mxGeometry x="111" y="520" width="52.81" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="essIW2ThO4qJz_jhKlfG-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="essIW2ThO4qJz_jhKlfG-8" source="essIW2ThO4qJz_jhKlfG-90" target="essIW2ThO4qJz_jhKlfG-158">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="essIW2ThO4qJz_jhKlfG-90" value="Encerrar o pedido" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="essIW2ThO4qJz_jhKlfG-8">
           <mxGeometry x="160" y="450" width="77.5" height="30" as="geometry" />
